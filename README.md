@@ -1,4 +1,4 @@
-# Data Analytics & Business Analyst Portfolio
+# Analytics Portfolio
 
 This repository contains analytics projects demonstrating skills in Excel, SQL, and Power BI.
 
